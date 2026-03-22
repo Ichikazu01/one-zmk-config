@@ -37,12 +37,12 @@ layers:
   - .
   - /
   - {t: \, h: Alt}
-  - {t: ↹, h: NUM}
-  - {t: ␣, h: Shift}
+  - {t: ←, h: NUM}
+  - {t: ↑, h: Shift}
   - {t: ␣, h: SYM}
   - {t: ENTER, h: SYM}
-  - {t: ⌫, h: Shift}
-  - {t: ⌦, h: NUM}
+  - {t: ↓, h: Shift}
+  - {t: →, h: NUM}
   SYM:
   - {t: F1, h: Gui}
   - F2
