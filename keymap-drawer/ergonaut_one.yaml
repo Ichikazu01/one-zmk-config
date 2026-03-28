@@ -1,42 +1,42 @@
 layout: {zmk_keyboard: ergonaut_one}
 layers:
   MAIN:
-  - {t: ']', h: Gui}
+  - {t: Esc, h: Gui}
+  - ↹
   - Q
-  - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
-  - P
-  - '['
-  - {t: '`', h: Ctrl}
-  - A
-  - S
-  - D
-  - F
-  - G
-  - H
-  - J
-  - K
   - L
-  - ;
-  - {t: '''', h: Ctrl}
-  - {t: '-', h: Alt}
+  - U
+  - '-'
+  - F
+  - W
+  - R
+  - Y
+  - P
+  - F7
+  - {t: LEFT SHIFT, h: Ctrl}
+  - LEFT ALT
+  - E
+  - I
+  - A
+  - O
+  - K
+  - T
+  - N
+  - S
+  - H
+  - {t: ',', h: Ctrl}
+  - {t: Ctrl, h: Alt}
+  - LEFT WIN
   - Z
   - X
   - C
   - V
-  - B
-  - N
+  - G
+  - D
   - M
-  - ','
-  - .
-  - /
-  - {t: \, h: Alt}
+  - J
+  - B
+  - {t: ., h: Alt}
   - {t: ←, h: NUM}
   - {t: ↑, h: Shift}
   - {t: ␣, h: SYM}
@@ -127,48 +127,5 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  ADJ:
-  - Boot
-  - '&studio_unlock'
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - '&studio_unlock'
-  - Boot
-  - BT CLR
-  - BT 1
-  - BT 2
-  - BT 3
-  - BT 4
-  - BT 5
-  - BT 5
-  - BT 4
-  - BT 3
-  - BT 2
-  - BT 1
-  - BT CLR
-  - Reset
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - Reset
-  - {type: held}
-  - ''
-  - {type: held}
-  - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
