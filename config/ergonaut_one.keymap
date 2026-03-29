@@ -26,7 +26,7 @@
         default_layer {
             display-name = "MAIN";
             bindings = <
-&mt LGUI ESC          &kp TAB       &kp Q  &kp L       &kp U         &kp MINUS    &kp F        &kp W           &kp R        &kp Y  &kp P  &kp F7
+&mt LGUI ESC          &kp TAB       &kp Q  &kp L       &kp U         &kp MINUS    &kp F        &kp W           &kp R        &kp Y  &kp P  &kp DEL
 &mt LCTRL LEFT_SHIFT  &kp LEFT_ALT  &kp E  &kp I       &kp A         &kp O        &kp K        &kp T           &kp N        &kp S  &kp H  &mt RCTRL COMMA
 &mt LALT LCTRL        &kp LEFT_WIN  &kp Z  &kp X       &kp C         &kp V        &kp G        &kp D           &kp M        &kp J  &kp B  &mt RALT PERIOD
                                            &lt 2 LEFT  &mt LSHFT UP  &lt 1 SPACE  &lt 1 ENTER  &mt RSHFT DOWN  &lt 2 RIGHT

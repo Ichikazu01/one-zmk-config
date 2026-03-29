@@ -12,7 +12,7 @@ layers:
   - R
   - Y
   - P
-  - F7
+  - ⌦
   - {t: LEFT SHIFT, h: Ctrl}
   - LEFT ALT
   - E
